@@ -12,3 +12,8 @@ Si desea ver el documento en original, por favor contácteme por correo electró
 
 - albertoicg01@gmail.com
 - 5526999500
+
+
+## Nota si lo ves desde celular o tableta
+
+Dale click en view code o ver código, para poder ver el listado de documentos. 
